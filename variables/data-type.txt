@@ -1,0 +1,23 @@
+java is a typed language
+
+data type in java
+
+1.primitive
+2.non-primitive
+
+1. primitive type
+    byte
+    short
+    char
+    boolean
+    int
+    long
+    float
+    double
+
+2. non-primitive type
+    String
+    Array
+    Class
+    Object
+    Interface
